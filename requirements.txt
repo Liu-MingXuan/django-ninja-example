@@ -1,0 +1,16 @@
+# Django and framework
+Django==6.0
+django-ninja
+django-cors-headers
+
+# Database
+psycopg2-binary
+
+# Testing
+pytest
+pytest-django
+
+# Code quality and formatting
+black
+flake8
+isort

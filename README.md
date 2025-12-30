@@ -1,3 +1,6 @@
+[![Django](https://img.shields.io/badge/Django-6.0-green.svg)](https://www.djangoproject.com/)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+
 # Django-Ninja 开发示例
 
 这是一个使用 Django-Ninja 框架开发的 RESTful API 示例项目，展示了如何构建一个完整的 CRUD 应用。
