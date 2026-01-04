@@ -16,8 +16,8 @@
 ## 技术栈
 
 - Django 6.0
-- Django-Ninja
-- SQLite
+- django-ninja
+- SQLite（pgsql）
 - Pydantic
 
 ## 项目结构
